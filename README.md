@@ -28,12 +28,15 @@
 </p>
 
 ### 🧩 Microsoft Stack
-<p>
+<div style="display:inline-block;">
   <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsngvehQo7h6rpTid3VxCEGzhLXXRUFh1FQ&s" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/3840px-Powerapps-logo.svg.png" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/3840px-Microsoft_Power_Automate.svg.png" />
-</p>
+  <img width="50"
+    height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsngvehQo7h6rpTid3VxCEGzhLXXRUFh1FQ&s" />
+  <img width="50"
+    height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/3840px-Powerapps-logo.svg.png" />
+  <img width="50"
+    height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/3840px-Microsoft_Power_Automate.svg.png" />
+</div>
 
 ### 🗄️ Backend & Database
 <p>
